@@ -369,14 +369,14 @@ if (!isset($_POST['form']) && !isset($_SESSION['auth']) && $ini_array['autosign'
 
                     ?>
                     <div id="credits" style="position: absolute;right:10px;bottom:10px;cursor:pointer">
-                        I, Librarian <?php print $version ?> &copy; Scilico, LLC &middot; GPLv3
+                        Prof. Qian's Laboratory &copy; Contact: huailongxu@163.com
                     </div>
                     <?php
                 }
 
                 ?>
                 <div style="position: absolute;left:10px;bottom:10px;cursor:pointer">
-                    <a href="m/index.html" target="_blank">I, Librarian Mobile</a>
+                    <a href="http://www.qian-lab.com:6868" target="_blank">Back to Laboratory Homepage</a>
                 </div>
             </div>
             <script type="text/javascript">
