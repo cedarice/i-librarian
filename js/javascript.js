@@ -741,7 +741,7 @@ var index2 = {
             });
         }).button();
         $('#credits').click(function () {
-            window.open('http://i-librarian.net');
+            window.open('mailto:xxx@xxx.com');
         });
         $("#openresetpassword").click(function () {
             $('#signupform').hide();
